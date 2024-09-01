@@ -1,4 +1,4 @@
-<a>Young Hearts Old Souls Website Project</a>
+## Young Hearts Old Souls Website Project
 This is the website for Young Hearts Old Souls, an Alberta Incorporated non-profit organization led by many young individuals rich in compassion and social responsibility.
 Youth Leaders
 
